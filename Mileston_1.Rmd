@@ -1,0 +1,11 @@
+---
+title: "Milestone_1"
+output: html_document
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I would like my final project to situate one of my MENA research interests within a global context. So far, I have found two large data sets focused on conflict and civil resistance. These data sets include global data, so I could probably focus on comparing the prevalence of violent conflict or acts of civil resistance in comparison to other regions of the world, over time. During tutorial today, Beau introduced us to the Harvard data verse. I plan to explore the Harvard data verse in more detial over the weekend to see if I can find a dataset focusing on conflict in the Middle East. I am hoping that onceI find an interesting data set I will be able to come up with 1-2 key questions that I would like my data visualization to answer and/or explore.  
